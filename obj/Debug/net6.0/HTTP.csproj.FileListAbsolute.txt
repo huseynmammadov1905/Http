@@ -1,0 +1,14 @@
+C:\Users\memme\source\repos\HTTP\bin\Debug\net6.0\HTTP.exe
+C:\Users\memme\source\repos\HTTP\bin\Debug\net6.0\HTTP.deps.json
+C:\Users\memme\source\repos\HTTP\bin\Debug\net6.0\HTTP.runtimeconfig.json
+C:\Users\memme\source\repos\HTTP\bin\Debug\net6.0\HTTP.dll
+C:\Users\memme\source\repos\HTTP\bin\Debug\net6.0\HTTP.pdb
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\HTTP.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\HTTP.AssemblyInfo.cs
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\HTTP.dll
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\refint\HTTP.dll
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\HTTP.pdb
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\HTTP.genruntimeconfig.cache
+C:\Users\memme\source\repos\HTTP\obj\Debug\net6.0\ref\HTTP.dll
